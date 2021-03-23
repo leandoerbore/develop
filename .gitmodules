@@ -1,0 +1,3 @@
+[submodule "some-modules"]
+	path = some-modules
+	url = https://github.com/leandoerbore/some-modules
