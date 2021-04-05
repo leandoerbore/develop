@@ -1,0 +1,2 @@
+[submodule "some-modules"]
+	url = https://github.com/leandoerbore/some-modules
